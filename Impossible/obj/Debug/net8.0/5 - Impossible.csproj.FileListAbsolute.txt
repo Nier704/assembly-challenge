@@ -1,0 +1,28 @@
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.exe
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.deps.json
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.runtimeconfig.json
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.dll
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.pdb
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.AssemblyInfoInputs.cache
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.AssemblyInfo.cs
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.csproj.CoreCompileInputs.cache
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.dll
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\refint\5 - Impossible.dll
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.pdb
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.genruntimeconfig.cache
+C:\Users\lorec\Desktop\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\ref\5 - Impossible.dll
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.exe
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.deps.json
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.runtimeconfig.json
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.dll
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\bin\Debug\net8.0\5 - Impossible.pdb
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.AssemblyInfoInputs.cache
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.AssemblyInfo.cs
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.csproj.CoreCompileInputs.cache
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.dll
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\refint\5 - Impossible.dll
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.pdb
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\5 - Impossible.genruntimeconfig.cache
+C:\Users\lorec\Desktop\programming\projetos pessoais\Assembly Challange Main\5 - Impossible\obj\Debug\net8.0\ref\5 - Impossible.dll
